@@ -1,5 +1,11 @@
 # Mapa de Escritórios
 
+<script>
+window.location.replace('map/mapa01.html');
+</script>
+
+[Abrir mapa](map/mapa01.html)
+
 Mapa interativo do Brasil sincronizado com a lista `Rede de Escritórios` no SharePoint.
 
 ## GitHub Pages
