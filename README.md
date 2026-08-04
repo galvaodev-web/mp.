@@ -2,6 +2,14 @@
 
 Mapa interativo do Brasil sincronizado com a lista `Rede de Escritórios` no SharePoint.
 
+## GitHub Pages
+
+Quando o GitHub Pages estiver habilitado no repositório, o mapa ficará disponível em:
+
+```text
+https://galvaodev-web.github.io/mp./
+```
+
 ## Rodar localmente
 
 ```bash
